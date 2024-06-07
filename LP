@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ozonia Landing Page</title>
+    <link rel="stylesheet" href="style1.css">
+    <link rel="stylesheet" href="util.css">
+</head>
+<body>
+    <div class="container mx-auto">
+        <header>
+            <nav class="flex justify-between">
+                <div class="items-centre"><h1>SOFTBLUSH Beauty</h1></div>
+                <ul class="navbar items-centre"> 
+                    <li>About Us></li>
+                    <li>Services></li>
+                    <li>Contact Us</li>
+
+                </ul>
+            </nav>
+            <hr>
+        </header>
+        <main class="min-h-screen" >
+        <section class="section1">
+            <div class="flex1">
+                <div class="topleft flex justify-center flex-col px-2 ">
+                    <img class="Ozonia" src="assests/img/b5.png" alt="">
+                    <h2 class="my-1">Coming Soon...</h2>
+                    <p>We are launching our freshest facial care kit: Ozonia</p>
+                    <div><button class="btn">Get Early Access</button></div>
+                </div>
+            <div class="topright">
+                <img src="assests/img/b1.png" alt="">
+            </div>
+            </div>
+        </section>
+        <hr>
+        <section class="section2">
+            <h3 class="text-center my-2">HERE'S A SNEAK PEAK</h3>
+            <hr>
+            <div class="boxes flex">
+            <div class="box">
+                <div class="abc"> <img src="assests/img/b4.png" alt=""></div>
+            </div>
+            <div class="box">
+                <h2>BE THE FIRST TO EXPERIENCE THE OZONIA RANGE></h2><br>
+                <p>Ozonia is our largest yet most effective product line for sensitive skin. Every product is made with botanical extracts and pure glacial water for all-natural glow!</p>
+                  <br><ul><li>ORGANIC: Pure and all natural ingredients</li></ul>
+                       <br><ul><li>GENTLE: Safe for sensitive skin</li></ul>
+                       <br><ul><li>EFFECTIVE: CLinically proven</li></ul>
+                </div>
+            <div class="box">
+                <img src="assests/img/b2.png" alt="">
+            </div>
+            </div>
+        </section>
+        <hr>
+        <section class="section3">
+            <div class="boxes flex">
+            <div class="boxx"><img src="assests/img/b6.png" alt=""></div>
+            <div class="boxx"><img src="assests/img/b7.png" alt=""></div>
+            <div class="boxx"><img src="assests/img/b8.png" alt=""></div>
+            </div>
+        </section>
+        <hr>
+        </main>
+        <footer class="section4">
+            <div class="ab">
+                <h1>TRUSTED SKINCARE SINCE 2015</h1>
+            <div class="col1">
+                <h3>LET's GET SOCIAL!</h3>
+                <ul class="list-unstyled">
+                  <li>Instagram</li>
+                  <li>Facebook</li>
+                  <li>Twitter</li>
+                  <li>Linkedin</li>
+                  <li>YouTube</li>
+               </ul>
+              </div>
+                <div class="col2">
+                    <h3>ABOUT</h3>
+                    <ul class="list-unstyled">
+                        <li>Team</li>
+                        <li>Locations</li>
+                        <li>Privacy</li>
+                        <li>Teams</li>
+                    </ul>
+                </div>
+                <div class="txt">
+                    <a href="https://www.rarebeauty.com/products/soft-pinch-liquid-blush">hello@greatbeauty.com</a></div>
+            </div>
+            </footer>
+        </footer>  
+    </div>
+    
+</body>
+</html>
